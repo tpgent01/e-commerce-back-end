@@ -46,14 +46,14 @@ THEN I am able to successfully create, update, and delete data in my database
 
 
 ## 🎨Mock-Up
-<p>Shows GET routes to return all categories, all products, and all tags being tested in Incomnia Core:</p>
-![](assets/mock-up1.gif)
+<p>Shows GET routes to return all categories, all products, and all tags being tested in Incomnia Core:
+![](assets/mock-up1.gif)</p>
 
-<p>Shows GET routes to return a single category, a single product, and a single tag being tesed in Insomnia Core:</p>
-![](assets/mock-up2.gif)
+<p>Shows GET routes to return a single category, a single product, and a single tag being tesed in Insomnia Core:
+![](assets/mock-up2.gif)</p>
 
-<p>Shows the POST, PUT, and DELETE routes for categories being tested in Insomnia Core:</p>
-![](assets/mock-up3.gif)
+<p>Shows the POST, PUT, and DELETE routes for categories being tested in Insomnia Core:
+![](assets/mock-up3.gif)</p>
 
 
 ## 🔌Installation

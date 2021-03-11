@@ -3,7 +3,7 @@
 
 
 ## 💬 Description 
-
+A back end for an e-commerce site built with Express.js, Sequelize and MySQL.
 
 
 ## 📓 Table of Contents

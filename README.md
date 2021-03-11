@@ -63,8 +63,8 @@ The user should clone the repository from GitHub and open up the project in thei
 
 
 ## 💻Usage 
-To run on localhost:3001, please run command _npm start_ to start the server and _control C_ to stop.
-To run program on Heroku, please [click here](https://damp-beach-37387.herokuapp.com/).
+To run on _localhost:3001_, please run command _npm start_ to start the server and _control C_ to stop.
+<br>To run program on Heroku, please [click here](https://damp-beach-37387.herokuapp.com/).</br>
 <br>[Click me for walkthrough❗️](https://drive.google.com/file/d/1w_e_9PtWJ3t6cPhLJF4xTVtjRc396Spz/view)</br>
 <br>![](public/assets/images/example.gif)</br>
 
@@ -88,12 +88,12 @@ Licensed under the MIT license.
 
 ## 🏆Badges
 
-![GitHub top language](https://img.shields.io/github/languages/top/tpgent01/e-commerce-back-end?style=plastic)
-<br>![GitHub repo size](https://img.shields.io/github/repo-size/tpgent01/e-commerce-back-end?style=plastic)</br>
-![GitHub language count](https://img.shields.io/github/languages/count/tpgent01/e-commerce-back-end?color=ff69b4&style=plastic)
-<br>![GitHub closed issues](https://img.shields.io/github/issues-closed/tpgent01/e-commerce-back-end?style=plastic)</br>
+![GitHub top language](https://img.shields.io/github/languages/top/tpgent01/e-commerce-back-end?color=red&style=plastic)
+<br>![GitHub repo size](https://img.shields.io/github/repo-size/tpgent01/e-commerce-back-end?color=orange&style=plastic)</br>
+![GitHub language count](https://img.shields.io/github/languages/count/tpgent01/e-commerce-back-end?color=yellow&style=plastic)
+<br>![GitHub closed issues](https://img.shields.io/github/issues-closed/tpgent01/e-commerce-back-end?color=brightgreen&style=plastic)</br>
 ![GitHub last commit](https://img.shields.io/github/last-commit/tpgent01/e-commerce-back-end?color=blueviolet&style=plastic)
-<br>![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tpgent01/e-commerce-back-end?color=orange&style=plastic)</br>
+<br>![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tpgent01/e-commerce-back-end?color=ff69b4&style=plastic)</br>
 ![GitHub watchers](https://img.shields.io/github/watchers/tpgent01/e-commerce-back-end?style=social)
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/tpgent01/e-commerce-back-end?style=social)</br>
 

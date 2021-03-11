@@ -28,7 +28,7 @@ router.get('/', (req, res) => {
       }
     ]
   })
-  .then(dbProduct => res.json(dbProduct))
+  .then(dbProductData => res.json(dbProductData))
   .catch(err => {
     console.log(err);
     res.status(500).json(err);
@@ -63,12 +63,12 @@ router.get('/:id', (req, res) => {
       }
     ]
   })
-  .then(dbProduct => {
-    if (!dbProduct) {
+  .then(dbProductData => {
+    if (!dbProductData) {
       res.status(404).json({ message: 'No product found with that id' });
       return;
     }
-    res.json(dbProduct);
+    res.json(dbProductData);
   })
   .catch(err => {
     console.log(err);
@@ -152,6 +152,26 @@ router.put('/:id', (req, res) => {
 
 router.delete('/:id', (req, res) => {
   // delete one product by its `id` value
+  Product.destroy({
+    where: {
+      id: req.params.id
+    }
+  })
+  // send back in JSON and see if product matches id
+  .then(dbProductData => {
+    if (!dbProductData) {
+      // if not (false)
+      res.status(404).json({ message: 'No product found with this id' });
+      return;
+    }
+    // if yes (true)
+    res.json(dbProductData);
+  })
+  // if there is an err catch it and send a response
+  .catch(err => {
+    console.log(err);
+    res.status(500).json(err)
+  });
 });
 
 module.exports = router;

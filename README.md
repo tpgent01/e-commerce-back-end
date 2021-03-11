@@ -93,7 +93,7 @@ Licensed under the MIT license.
 ![GitHub language count](https://img.shields.io/github/languages/count/tpgent01/e-commerce-back-end?color=yellow&style=plastic)
 <br>![GitHub closed issues](https://img.shields.io/github/issues-closed/tpgent01/e-commerce-back-end?color=brightgreen&style=plastic)</br>
 ![GitHub last commit](https://img.shields.io/github/last-commit/tpgent01/e-commerce-back-end?color=blueviolet&style=plastic)
-<br>![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tpgent01/e-commerce-back-end?color=ff69b4&style=plastic)</br>
+<br>![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tpgent01/e-commerce-back-end?color=ff69b4&style=plastic)</br>
 ![GitHub watchers](https://img.shields.io/github/watchers/tpgent01/e-commerce-back-end?style=social)
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/tpgent01/e-commerce-back-end?style=social)</br>
 

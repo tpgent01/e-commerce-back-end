@@ -59,12 +59,12 @@ THEN I am able to successfully create, update, and delete data in my database
 ## 🔌Installation
 
 The user should clone the repository from GitHub and open up the project in their code editor.
-<br>User will need to run node.js and perform an _npm install_ for all necessary modules listed below.</br>
+<br>User will need to run node.js and perform an _npm install_ for all necessary dependencies listed below.</br>
 
 
 ## 💻Usage 
 To run on localhost:3001, please run command _npm start_ to start the server and _control C_ to stop.
-To run program on Heroku, please [click here](https://gentry-note-taker.herokuapp.com/).
+To run program on Heroku, please [click here](https://damp-beach-37387.herokuapp.com/).
 <br>[Click me for walkthrough❗️](https://drive.google.com/file/d/1w_e_9PtWJ3t6cPhLJF4xTVtjRc396Spz/view)</br>
 <br>![](public/assets/images/example.gif)</br>
 
@@ -73,11 +73,10 @@ To run program on Heroku, please [click here](https://gentry-note-taker.herokuap
 <p><a href="https://nodejs.org/">Node.js</a></p>
 <p><a href="https://www.npmjs.com/">NPM</a></p>
 <p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
-<p><a href="https://www.npmjs.com/package/inquirer">Inquirer.js</a></p>
-<p><a href="https://jestjs.io/">Jest</a></p>
+<p><a href="https://www.npmjs.com/package/mysql2">MySQL2</a></p>
+<p><a href="https://www.npmjs.com/package/sequelize">Sequelize</a></p>
+<p><a href="https://www.npmjs.com/package/dotenv">dotenv</a></p>
 <p><a href="https://heroku.com/">Heroku</a></p>
-<p><a href="https://getbootstrap.com/">Bootstrap</a></p>
-<p><a href="https://fonts.google.com/">Google Fonts</a></p>
 
 
 ## 🔐License
@@ -89,22 +88,21 @@ Licensed under the MIT license.
 
 ## 🏆Badges
 
-![GitHub top language](https://img.shields.io/github/languages/top/tpgent01/note-taker?style=plastic)
-<br>![GitHub repo size](https://img.shields.io/github/repo-size/tpgent01/note-taker?style=plastic)</br>
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/jest?style=plastic) - Jest
-<br>![npm bundle size](https://img.shields.io/bundlephobia/minzip/inquirer?style=plastic) - Inquirer</br>
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/express?style=plastic) - Express
-<br>![GitHub closed issues](https://img.shields.io/github/issues-closed/tpgent01/note-taker?style=plastic)</br>
-![GitHub watchers](https://img.shields.io/github/watchers/tpgent01/note-taker?style=social)
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/tpgent01/note-taker?style=social)</br>
+![GitHub top language](https://img.shields.io/github/languages/top/tpgent01/e-commerce-back-end?style=plastic)
+<br>![GitHub repo size](https://img.shields.io/github/repo-size/tpgent01/e-commerce-back-end?style=plastic)</br>
+![GitHub language count](https://img.shields.io/github/languages/count/tpgent01/e-commerce-back-end?color=ff69b4&style=plastic)
+<br>![GitHub closed issues](https://img.shields.io/github/issues-closed/tpgent01/e-commerce-back-end?style=plastic)</br>
+![GitHub last commit](https://img.shields.io/github/last-commit/tpgent01/e-commerce-back-end?color=blueviolet&style=plastic)
+<br>![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tpgent01/e-commerce-back-end?color=orange&style=plastic)</br>
+![GitHub watchers](https://img.shields.io/github/watchers/tpgent01/e-commerce-back-end?style=social)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/tpgent01/e-commerce-back-end?style=social)</br>
 
 
 
 ## 📊Tests
 
-To test this project, please see the [Installation](#installation) section - then run command _npm run test_.
-<br>The functions were tested before building out the remainder of the program.</br> 
-<br>![](public/assets/images/test.gif)</br>
+To test this project, please see the [Installation](#installation) section.
+<br>After the project is on your local, run _npm start_ to start the server and open [Insomnia Core](https://insomnia.rest/products/insomnia) to test API routes.</br>
 
 
 ## ❓Questions

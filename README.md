@@ -65,8 +65,8 @@ The user should clone the repository from GitHub and open up the project in thei
 ## 💻Usage 
 To run on _localhost:3001_, please run command _npm start_ to start the server and _control C_ to stop.
 <br>To run program on Heroku, please [click here](https://damp-beach-37387.herokuapp.com/).</br>
-<br>[Click me for walkthrough❗️](https://drive.google.com/file/d/1r1HfNW2eTT6yNOtebrMdx-Sk-RCgTDo1/view)</br>
-<br><iframe src="https://drive.google.com/file/d/1r1HfNW2eTT6yNOtebrMdx-Sk-RCgTDo1/preview" width="640" height="480"></iframe></br>
+[Click me for walkthrough❗️](https://drive.google.com/file/d/1r1HfNW2eTT6yNOtebrMdx-Sk-RCgTDo1/view)
+<br>![](assets/example.gif)</br>
 
 
 ## ✏️Built With
